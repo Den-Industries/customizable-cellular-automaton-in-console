@@ -9,4 +9,5 @@ You can do a lot of interesting stuff with it, so, have fun.
 
 # for installing
 
-Ctrl + C, ctrl + V from cpp file
+Ctrl + C, ctrl + V from cpp file.
+I use windows.h, so u will have problem if u use some other os
