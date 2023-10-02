@@ -11,3 +11,5 @@ You can do a lot of interesting stuff with it, so, have fun.
 
 Ctrl + C, ctrl + V from cpp file.
 I use windows.h, so u will have problem if u use some other os
+
+![image](https://github.com/Den-Industries/customizable-cellular-automaton-in-console/assets/81482745/d12b13b1-d737-4b26-8df1-4426e032f84a)
