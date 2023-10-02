@@ -6,3 +6,7 @@ In this programm you can create cellular automaton and experiment with that. It 
 There are some information about working of programm in it. You can customize 10 rules of borning and staying of cells and 24 weight of neighbor places.
 
 You can do a lot of interesting stuff with it, so, have fun.
+
+# for installing
+
+Ctrl + C, ctrl + V from cpp file
